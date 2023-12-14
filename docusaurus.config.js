@@ -163,6 +163,4 @@ const config = {
     }),
 };
 
-export default {
-  onBrokenLinks: 'ignore',
-};
+export default config;
