@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4606],{9701:e=>{e.exports=JSON.parse('{"title":"Getting Started","description":"Get started with Pinecone.","slug":"/category/getting-started","permalink":"/docs/./category/getting-started","navigation":{"next":{"title":"Overview","permalink":"/docs/./getting-started/overview"}}}')}}]);
