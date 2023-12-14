@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jseldess', // Usually your GitHub org/user name.
   projectName: 'jseldess.github.io', // Usually your repo name.
-  deploymentBranch: docs-test,
+  deploymentBranch: 'docs-test',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -164,3 +164,8 @@ const config = {
 };
 
 export default config;
+
+export default {
+  url: 'https://docusaurus-2.netlify.app', // Url to your site with no trailing slash
+  baseUrl: '/', // Base directory of your site relative to your repo
+};
