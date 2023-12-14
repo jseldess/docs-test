@@ -22,6 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jseldess', // Usually your GitHub org/user name.
   projectName: 'jseldess.github.io', // Usually your repo name.
+  deploymentBranch: docs-test,
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
