@@ -1,0 +1,28 @@
+{
+  "id": "organizations/manage-billing/changing-your-billing-plan",
+  "title": "Changing your billing plan",
+  "description": "This document describes how to change the billing plan for your Pinecone organization through the Pinecone console..",
+  "source": "@site/docs/organizations/manage-billing/changing-your-billing-plan.md",
+  "sourceDirName": "organizations/manage-billing",
+  "slug": "/organizations/manage-billing/changing-your-billing-plan",
+  "permalink": "/docs/./organizations/manage-billing/changing-your-billing-plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/organizations/manage-billing/changing-your-billing-plan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Changing your billing plan",
+    "sidebar_position": 4
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Setting up billing through GCP Marketplace",
+    "permalink": "/docs/./organizations/manage-billing/setting-up-gcp-marketplace-billing"
+  },
+  "next": {
+    "title": "Understanding subscription status",
+    "permalink": "/docs/./organizations/manage-billing/subscription_status"
+  }
+}

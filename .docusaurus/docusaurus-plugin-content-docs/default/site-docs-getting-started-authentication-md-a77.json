@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/authentication",
+  "title": "Authentication",
+  "description": "Learn how to authenticate API calls to a Pinecone project.",
+  "source": "@site/docs/getting-started/authentication.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/authentication",
+  "permalink": "/docs/./getting-started/authentication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/getting-started/authentication.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Authentication",
+    "description": "Learn how to authenticate API calls to a Pinecone project.",
+    "sidebar_position": 3
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/./getting-started/quickstart"
+  },
+  "next": {
+    "title": "Choosing index type and size",
+    "permalink": "/docs/./getting-started/choosing-index-type-and-size"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "projects/manage-projects/rename-project",
+  "title": "Rename a project",
+  "description": "If you are a project owner, follow these steps to change the name of your project.",
+  "source": "@site/docs/projects/manage-projects/rename-project.md",
+  "sourceDirName": "projects/manage-projects",
+  "slug": "/projects/manage-projects/rename-project",
+  "permalink": "/docs/./projects/manage-projects/rename-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/manage-projects/rename-project.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Rename a project",
+    "sidebar_position": 3
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Add users to projects and organizations",
+    "permalink": "/docs/./projects/manage-projects/add-users-to-projects-and-organizations"
+  },
+  "next": {
+    "title": "Change project pod limit",
+    "permalink": "/docs/./projects/manage-projects/change-project-pod-limit"
+  }
+}

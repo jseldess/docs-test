@@ -1,0 +1,712 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "latest",
+          "isLast": true,
+          "path": "/docs/.",
+          "mainDocId": "getting-started/overview",
+          "docs": [
+            {
+              "id": "data/datasets",
+              "path": "/docs/./data/datasets",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/datasets/creating-datasets",
+              "path": "/docs/./data/datasets/creating-datasets",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/datasets/pinecone-public-datasets",
+              "path": "/docs/./data/datasets/pinecone-public-datasets",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/datasets/using-public-datasets",
+              "path": "/docs/./data/datasets/using-public-datasets",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors",
+              "path": "/docs/./data/hybrid-search-and-sparse-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/encode-sparse-vectors",
+              "path": "/docs/./data/hybrid-search-and-sparse-vectors/encode-sparse-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/hybrid-search",
+              "path": "/docs/./data/hybrid-search-and-sparse-vectors/hybrid-search",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/query-sparse-dense-vectors",
+              "path": "/docs/./data/hybrid-search-and-sparse-vectors/query-sparse-dense-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/sparse-dense-vectors",
+              "path": "/docs/./data/hybrid-search-and-sparse-vectors/sparse-dense-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/upsert-sparse-dense-vectors",
+              "path": "/docs/./data/hybrid-search-and-sparse-vectors/upsert-sparse-dense-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/insert-data",
+              "path": "/docs/./data/insert-data",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/manage-data",
+              "path": "/docs/./data/manage-data",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/metadata-filtering",
+              "path": "/docs/./data/metadata-filtering",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/query-data",
+              "path": "/docs/./data/query-data",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/authentication",
+              "path": "/docs/./getting-started/authentication",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/choosing-index-type-and-size",
+              "path": "/docs/./getting-started/choosing-index-type-and-size",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/examples",
+              "path": "/docs/./getting-started/examples",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/overview",
+              "path": "/docs/./getting-started/overview",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/quickstart",
+              "path": "/docs/./getting-started/quickstart",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/back-up-indexes",
+              "path": "/docs/./indexes/back-up-indexes",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/collections",
+              "path": "/docs/./indexes/collections",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/indexes",
+              "path": "/docs/./indexes/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/manage-indexes",
+              "path": "/docs/./indexes/manage-indexes",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/namespaces",
+              "path": "/docs/./indexes/namespaces",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/scaling-indexes",
+              "path": "/docs/./indexes/scaling-indexes",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/changing-your-billing-plan",
+              "path": "/docs/./organizations/manage-billing/changing-your-billing-plan",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/manage-billing",
+              "path": "/docs/./organizations/manage-billing/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/setting-up-aws-marketplace-billing",
+              "path": "/docs/./organizations/manage-billing/setting-up-aws-marketplace-billing",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/setting-up-azure-marketplace-billing",
+              "path": "/docs/./organizations/manage-billing/setting-up-azure-marketplace-billing",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/setting-up-gcp-marketplace-billing",
+              "path": "/docs/./organizations/manage-billing/setting-up-gcp-marketplace-billing",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/subscription_status",
+              "path": "/docs/./organizations/manage-billing/subscription_status",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-cost/manage-cost",
+              "path": "/docs/./organizations/manage-cost/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-cost/managing-cost",
+              "path": "/docs/./organizations/manage-cost/managing-cost",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-cost/monitoring-usage",
+              "path": "/docs/./organizations/manage-cost/monitoring-usage",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-cost/understanding-cost",
+              "path": "/docs/./organizations/manage-cost/understanding-cost",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/organizations",
+              "path": "/docs/./organizations/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/add-users-to-projects-and-organizations",
+              "path": "/docs/./projects/manage-projects/add-users-to-projects-and-organizations",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/change-project-pod-limit",
+              "path": "/docs/./projects/manage-projects/change-project-pod-limit",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/create-project",
+              "path": "/docs/./projects/manage-projects/create-project",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/manage-projects",
+              "path": "/docs/./projects/manage-projects/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/rename-project",
+              "path": "/docs/./projects/manage-projects/rename-project",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/projects",
+              "path": "/docs/./projects/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/starter-environment",
+              "path": "/docs/./projects/starter-environment",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/./category/getting-started",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/organizations",
+              "path": "/docs/./category/organizations",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/projects",
+              "path": "/docs/./category/projects",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/indexes",
+              "path": "/docs/./category/indexes",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/data",
+              "path": "/docs/./category/data",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/getting-started-1",
+              "path": "/docs/./category/getting-started-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/organizations-1",
+              "path": "/docs/./category/organizations-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/projects-1",
+              "path": "/docs/./category/projects-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/indexes-1",
+              "path": "/docs/./category/indexes-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/data-1",
+              "path": "/docs/./category/data-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/getting-started-2",
+              "path": "/docs/./category/getting-started-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/organizations-2",
+              "path": "/docs/./category/organizations-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/projects-2",
+              "path": "/docs/./category/projects-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/indexes-2",
+              "path": "/docs/./category/indexes-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/data-2",
+              "path": "/docs/./category/data-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/getting-started-3",
+              "path": "/docs/./category/getting-started-3",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/organizations-3",
+              "path": "/docs/./category/organizations-3",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/projects-3",
+              "path": "/docs/./category/projects-3",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/indexes-3",
+              "path": "/docs/./category/indexes-3",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/data-3",
+              "path": "/docs/./category/data-3",
+              "sidebar": "examplesSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "guidesSidebar": {
+              "link": {
+                "path": "/docs/./category/getting-started",
+                "label": "Getting Started"
+              }
+            },
+            "referenceSidebar": {
+              "link": {
+                "path": "/docs/./category/getting-started-1",
+                "label": "Getting Started"
+              }
+            },
+            "conceptsSidebar": {
+              "link": {
+                "path": "/docs/./category/getting-started-2",
+                "label": "Getting Started"
+              }
+            },
+            "examplesSidebar": {
+              "link": {
+                "path": "/docs/./category/getting-started-3",
+                "label": "Getting Started"
+              }
+            }
+          }
+        },
+        {
+          "name": "legacy",
+          "label": "legacy",
+          "isLast": false,
+          "path": "/docs/legacy",
+          "mainDocId": "getting-started/overview",
+          "docs": [
+            {
+              "id": "data/datasets",
+              "path": "/docs/legacy/data/datasets",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/datasets/creating-datasets",
+              "path": "/docs/legacy/data/datasets/creating-datasets",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/datasets/pinecone-public-datasets",
+              "path": "/docs/legacy/data/datasets/pinecone-public-datasets",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/datasets/using-public-datasets",
+              "path": "/docs/legacy/data/datasets/using-public-datasets",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors",
+              "path": "/docs/legacy/data/hybrid-search-and-sparse-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/encode-sparse-vectors",
+              "path": "/docs/legacy/data/hybrid-search-and-sparse-vectors/encode-sparse-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/hybrid-search",
+              "path": "/docs/legacy/data/hybrid-search-and-sparse-vectors/hybrid-search",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/query-sparse-dense-vectors",
+              "path": "/docs/legacy/data/hybrid-search-and-sparse-vectors/query-sparse-dense-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/sparse-dense-vectors",
+              "path": "/docs/legacy/data/hybrid-search-and-sparse-vectors/sparse-dense-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/hybrid-search-and-sparse-vectors/upsert-sparse-dense-vectors",
+              "path": "/docs/legacy/data/hybrid-search-and-sparse-vectors/upsert-sparse-dense-vectors",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/insert-data",
+              "path": "/docs/legacy/data/insert-data",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/manage-data",
+              "path": "/docs/legacy/data/manage-data",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/metadata-filtering",
+              "path": "/docs/legacy/data/metadata-filtering",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "data/query-data",
+              "path": "/docs/legacy/data/query-data",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/authentication",
+              "path": "/docs/legacy/getting-started/authentication",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/choosing-index-type-and-size",
+              "path": "/docs/legacy/getting-started/choosing-index-type-and-size",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/examples",
+              "path": "/docs/legacy/getting-started/examples",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/overview",
+              "path": "/docs/legacy/getting-started/overview",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "getting-started/quickstart",
+              "path": "/docs/legacy/getting-started/quickstart",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/back-up-indexes",
+              "path": "/docs/legacy/indexes/back-up-indexes",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/collections",
+              "path": "/docs/legacy/indexes/collections",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/indexes",
+              "path": "/docs/legacy/indexes/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/manage-indexes",
+              "path": "/docs/legacy/indexes/manage-indexes",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/namespaces",
+              "path": "/docs/legacy/indexes/namespaces",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "indexes/scaling-indexes",
+              "path": "/docs/legacy/indexes/scaling-indexes",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/changing-your-billing-plan",
+              "path": "/docs/legacy/organizations/manage-billing/changing-your-billing-plan",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/manage-billing",
+              "path": "/docs/legacy/organizations/manage-billing/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/setting-up-aws-marketplace-billing",
+              "path": "/docs/legacy/organizations/manage-billing/setting-up-aws-marketplace-billing",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/setting-up-azure-marketplace-billing",
+              "path": "/docs/legacy/organizations/manage-billing/setting-up-azure-marketplace-billing",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/setting-up-gcp-marketplace-billing",
+              "path": "/docs/legacy/organizations/manage-billing/setting-up-gcp-marketplace-billing",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-billing/subscription_status",
+              "path": "/docs/legacy/organizations/manage-billing/subscription_status",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-cost/manage-cost",
+              "path": "/docs/legacy/organizations/manage-cost/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-cost/managing-cost",
+              "path": "/docs/legacy/organizations/manage-cost/managing-cost",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-cost/monitoring-usage",
+              "path": "/docs/legacy/organizations/manage-cost/monitoring-usage",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/manage-cost/understanding-cost",
+              "path": "/docs/legacy/organizations/manage-cost/understanding-cost",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "organizations/organizations",
+              "path": "/docs/legacy/organizations/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/add-users-to-projects-and-organizations",
+              "path": "/docs/legacy/projects/manage-projects/add-users-to-projects-and-organizations",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/change-project-pod-limit",
+              "path": "/docs/legacy/projects/manage-projects/change-project-pod-limit",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/create-project",
+              "path": "/docs/legacy/projects/manage-projects/create-project",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/manage-projects",
+              "path": "/docs/legacy/projects/manage-projects/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/manage-projects/rename-project",
+              "path": "/docs/legacy/projects/manage-projects/rename-project",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/projects",
+              "path": "/docs/legacy/projects/",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "projects/starter-environment",
+              "path": "/docs/legacy/projects/starter-environment",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/legacy/category/getting-started",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/organizations",
+              "path": "/docs/legacy/category/organizations",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/projects",
+              "path": "/docs/legacy/category/projects",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/indexes",
+              "path": "/docs/legacy/category/indexes",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/data",
+              "path": "/docs/legacy/category/data",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "/category/getting-started-1",
+              "path": "/docs/legacy/category/getting-started-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/organizations-1",
+              "path": "/docs/legacy/category/organizations-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/projects-1",
+              "path": "/docs/legacy/category/projects-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/indexes-1",
+              "path": "/docs/legacy/category/indexes-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/data-1",
+              "path": "/docs/legacy/category/data-1",
+              "sidebar": "referenceSidebar"
+            },
+            {
+              "id": "/category/getting-started-2",
+              "path": "/docs/legacy/category/getting-started-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/organizations-2",
+              "path": "/docs/legacy/category/organizations-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/projects-2",
+              "path": "/docs/legacy/category/projects-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/indexes-2",
+              "path": "/docs/legacy/category/indexes-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/data-2",
+              "path": "/docs/legacy/category/data-2",
+              "sidebar": "conceptsSidebar"
+            },
+            {
+              "id": "/category/getting-started-3",
+              "path": "/docs/legacy/category/getting-started-3",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/organizations-3",
+              "path": "/docs/legacy/category/organizations-3",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/projects-3",
+              "path": "/docs/legacy/category/projects-3",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/indexes-3",
+              "path": "/docs/legacy/category/indexes-3",
+              "sidebar": "examplesSidebar"
+            },
+            {
+              "id": "/category/data-3",
+              "path": "/docs/legacy/category/data-3",
+              "sidebar": "examplesSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "guidesSidebar": {
+              "link": {
+                "path": "/docs/legacy/category/getting-started",
+                "label": "Getting Started"
+              }
+            },
+            "referenceSidebar": {
+              "link": {
+                "path": "/docs/legacy/category/getting-started-1",
+                "label": "Getting Started"
+              }
+            },
+            "conceptsSidebar": {
+              "link": {
+                "path": "/docs/legacy/category/getting-started-2",
+                "label": "Getting Started"
+              }
+            },
+            "examplesSidebar": {
+              "link": {
+                "path": "/docs/legacy/category/getting-started-3",
+                "label": "Getting Started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

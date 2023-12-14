@@ -1,0 +1,28 @@
+{
+  "id": "organizations/manage-billing/manage-billing",
+  "title": "Manage billing",
+  "description": "Overview",
+  "source": "@site/versioned_docs/version-legacy/organizations/manage-billing/manage-billing.md",
+  "sourceDirName": "organizations/manage-billing",
+  "slug": "/organizations/manage-billing/",
+  "permalink": "/docs/legacy/organizations/manage-billing/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-legacy/organizations/manage-billing/manage-billing.md",
+  "tags": [],
+  "version": "legacy",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Manage billing",
+    "sidebar_position": 2
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Understanding organizations",
+    "permalink": "/docs/legacy/organizations/"
+  },
+  "next": {
+    "title": "Setting up billing through AWS Marketplace",
+    "permalink": "/docs/legacy/organizations/manage-billing/setting-up-aws-marketplace-billing"
+  }
+}

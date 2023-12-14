@@ -1,0 +1,28 @@
+{
+  "id": "indexes/scaling-indexes",
+  "title": "Scale indexes",
+  "description": "In this topic, we explain how you can scale your indexes horizontally and vertically.",
+  "source": "@site/docs/indexes/scaling-indexes.md",
+  "sourceDirName": "indexes",
+  "slug": "/indexes/scaling-indexes",
+  "permalink": "/docs/./indexes/scaling-indexes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/indexes/scaling-indexes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Scale indexes",
+    "sidebar_position": 4
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Back up indexes",
+    "permalink": "/docs/./indexes/back-up-indexes"
+  },
+  "next": {
+    "title": "Understanding collections",
+    "permalink": "/docs/./indexes/collections"
+  }
+}

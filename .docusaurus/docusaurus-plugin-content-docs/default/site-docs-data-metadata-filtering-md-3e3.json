@@ -1,0 +1,27 @@
+{
+  "id": "data/metadata-filtering",
+  "title": "Filtering with metadata",
+  "description": "You can limit your vector search based on metadata. Pinecone lets you attach metadata key-value pairs to vectors in an index, and specify filter expressions when you query the index.",
+  "source": "@site/docs/data/metadata-filtering.md",
+  "sourceDirName": "data",
+  "slug": "/data/metadata-filtering",
+  "permalink": "/docs/./data/metadata-filtering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data/metadata-filtering.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Filtering with metadata",
+    "category": "6495c32609a24b00434e5b53"
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Manage data",
+    "permalink": "/docs/./data/manage-data"
+  },
+  "next": {
+    "title": "Query data",
+    "permalink": "/docs/./data/query-data"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Organizations",
+  "description": "Understand and setup organizations.",
+  "slug": "/category/organizations-3",
+  "permalink": "/docs/./category/organizations-3",
+  "navigation": {
+    "previous": {
+      "title": "Examples",
+      "permalink": "/docs/./getting-started/examples"
+    },
+    "next": {
+      "title": "Understanding organizations",
+      "permalink": "/docs/./organizations/"
+    }
+  }
+}

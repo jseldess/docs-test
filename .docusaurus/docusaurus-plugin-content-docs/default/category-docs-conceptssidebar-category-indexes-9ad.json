@@ -1,0 +1,16 @@
+{
+  "title": "Indexes",
+  "description": "Understand and setup organizations.",
+  "slug": "/category/indexes-2",
+  "permalink": "/docs/./category/indexes-2",
+  "navigation": {
+    "previous": {
+      "title": "gcp-starter environment",
+      "permalink": "/docs/./projects/starter-environment"
+    },
+    "next": {
+      "title": "Understanding indexes",
+      "permalink": "/docs/./indexes/"
+    }
+  }
+}

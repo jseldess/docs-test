@@ -1,0 +1,27 @@
+{
+  "id": "data/datasets/creating-datasets",
+  "title": "Creating and loading private datasets",
+  "description": "Overview",
+  "source": "@site/docs/data/datasets/creating-datasets.md",
+  "sourceDirName": "data/datasets",
+  "slug": "/data/datasets/creating-datasets",
+  "permalink": "/docs/./data/datasets/creating-datasets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data/datasets/creating-datasets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Creating and loading private datasets",
+    "category": "6495c32609a24b00434e5b53"
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Data",
+    "permalink": "/docs/./category/data-3"
+  },
+  "next": {
+    "title": "Pinecone public datasets",
+    "permalink": "/docs/./data/datasets/pinecone-public-datasets"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "indexes/manage-indexes",
+  "title": "Manage indexes",
+  "description": "In this section, we explain how you can get a list of your indexes, create an index, delete an index, and describe an index.",
+  "source": "@site/docs/indexes/manage-indexes.md",
+  "sourceDirName": "indexes",
+  "slug": "/indexes/manage-indexes",
+  "permalink": "/docs/./indexes/manage-indexes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/indexes/manage-indexes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Manage indexes",
+    "sidebar_position": 2
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Understanding indexes",
+    "permalink": "/docs/./indexes/"
+  },
+  "next": {
+    "title": "Back up indexes",
+    "permalink": "/docs/./indexes/back-up-indexes"
+  }
+}

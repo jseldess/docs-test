@@ -1,0 +1,27 @@
+{
+  "id": "data/datasets/pinecone-public-datasets",
+  "title": "Pinecone public datasets",
+  "description": "Overview",
+  "source": "@site/versioned_docs/version-legacy/data/datasets/pinecone-public-datasets.md",
+  "sourceDirName": "data/datasets",
+  "slug": "/data/datasets/pinecone-public-datasets",
+  "permalink": "/docs/legacy/data/datasets/pinecone-public-datasets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-legacy/data/datasets/pinecone-public-datasets.md",
+  "tags": [],
+  "version": "legacy",
+  "frontMatter": {
+    "title": "Pinecone public datasets",
+    "category": "6495c32609a24b00434e5b53"
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Creating and loading private datasets",
+    "permalink": "/docs/legacy/data/datasets/creating-datasets"
+  },
+  "next": {
+    "title": "Using public Pinecone datasets",
+    "permalink": "/docs/legacy/data/datasets/using-public-datasets"
+  }
+}

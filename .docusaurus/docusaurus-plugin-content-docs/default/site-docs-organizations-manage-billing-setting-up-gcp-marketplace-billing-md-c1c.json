@@ -1,0 +1,28 @@
+{
+  "id": "organizations/manage-billing/setting-up-gcp-marketplace-billing",
+  "title": "Setting up billing through GCP Marketplace",
+  "description": "This document describes how to configure pay-as-you-go billing for your Pinecone organization through Google Cloud Platform (GCP) Marketplace. To commit to annual spending, contact Pinecone.",
+  "source": "@site/docs/organizations/manage-billing/setting-up-gcp-marketplace-billing.md",
+  "sourceDirName": "organizations/manage-billing",
+  "slug": "/organizations/manage-billing/setting-up-gcp-marketplace-billing",
+  "permalink": "/docs/./organizations/manage-billing/setting-up-gcp-marketplace-billing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/organizations/manage-billing/setting-up-gcp-marketplace-billing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Setting up billing through GCP Marketplace",
+    "sidebar_position": 3
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Setting up billing through Azure Marketplace",
+    "permalink": "/docs/./organizations/manage-billing/setting-up-azure-marketplace-billing"
+  },
+  "next": {
+    "title": "Changing your billing plan",
+    "permalink": "/docs/./organizations/manage-billing/changing-your-billing-plan"
+  }
+}

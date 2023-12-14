@@ -1,0 +1,28 @@
+{
+  "id": "projects/manage-projects/manage-projects",
+  "title": "Manage projects",
+  "description": "This category contains guides for tasks related to Pinecone projects.",
+  "source": "@site/versioned_docs/version-legacy/projects/manage-projects/manage-projects.md",
+  "sourceDirName": "projects/manage-projects",
+  "slug": "/projects/manage-projects/",
+  "permalink": "/docs/legacy/projects/manage-projects/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-legacy/projects/manage-projects/manage-projects.md",
+  "tags": [],
+  "version": "legacy",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Manage projects",
+    "sidebar_position": 2
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Understanding projects",
+    "permalink": "/docs/legacy/projects/"
+  },
+  "next": {
+    "title": "Create a project",
+    "permalink": "/docs/legacy/projects/manage-projects/create-project"
+  }
+}

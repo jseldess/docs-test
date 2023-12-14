@@ -1,0 +1,27 @@
+{
+  "id": "data/hybrid-search-and-sparse-vectors",
+  "title": "Hybrid search and sparse vectors",
+  "description": "Overview",
+  "source": "@site/docs/data/hybrid-search-and-sparse-vectors.md",
+  "sourceDirName": "data",
+  "slug": "/data/hybrid-search-and-sparse-vectors",
+  "permalink": "/docs/./data/hybrid-search-and-sparse-vectors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data/hybrid-search-and-sparse-vectors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Hybrid search and sparse vectors",
+    "category": "6495c32609a24b00434e5b53"
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Upserting sparse-dense vectors",
+    "permalink": "/docs/./data/hybrid-search-and-sparse-vectors/upsert-sparse-dense-vectors"
+  },
+  "next": {
+    "title": "Insert data",
+    "permalink": "/docs/./data/insert-data"
+  }
+}

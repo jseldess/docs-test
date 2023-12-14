@@ -1,0 +1,27 @@
+{
+  "id": "data/hybrid-search-and-sparse-vectors/hybrid-search",
+  "title": "Understanding hybrid search",
+  "description": "Overview",
+  "source": "@site/versioned_docs/version-legacy/data/hybrid-search-and-sparse-vectors/hybrid-search.md",
+  "sourceDirName": "data/hybrid-search-and-sparse-vectors",
+  "slug": "/data/hybrid-search-and-sparse-vectors/hybrid-search",
+  "permalink": "/docs/legacy/data/hybrid-search-and-sparse-vectors/hybrid-search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-legacy/data/hybrid-search-and-sparse-vectors/hybrid-search.md",
+  "tags": [],
+  "version": "legacy",
+  "frontMatter": {
+    "title": "Understanding hybrid search",
+    "category": "6495c32609a24b00434e5b53"
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Encoding sparse vectors",
+    "permalink": "/docs/legacy/data/hybrid-search-and-sparse-vectors/encode-sparse-vectors"
+  },
+  "next": {
+    "title": "Querying sparse-dense vectors",
+    "permalink": "/docs/legacy/data/hybrid-search-and-sparse-vectors/query-sparse-dense-vectors"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "data/hybrid-search-and-sparse-vectors/encode-sparse-vectors",
+  "title": "Encoding sparse vectors",
+  "description": "Overview",
+  "source": "@site/docs/data/hybrid-search-and-sparse-vectors/encode-sparse-vectors.md",
+  "sourceDirName": "data/hybrid-search-and-sparse-vectors",
+  "slug": "/data/hybrid-search-and-sparse-vectors/encode-sparse-vectors",
+  "permalink": "/docs/./data/hybrid-search-and-sparse-vectors/encode-sparse-vectors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data/hybrid-search-and-sparse-vectors/encode-sparse-vectors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Encoding sparse vectors",
+    "category": "6495c32609a24b00434e5b53"
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Manage datasets",
+    "permalink": "/docs/./data/datasets"
+  },
+  "next": {
+    "title": "Understanding hybrid search",
+    "permalink": "/docs/./data/hybrid-search-and-sparse-vectors/hybrid-search"
+  }
+}

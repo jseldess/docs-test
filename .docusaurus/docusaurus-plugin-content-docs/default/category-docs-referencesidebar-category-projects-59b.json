@@ -1,0 +1,16 @@
+{
+  "title": "Projects",
+  "description": "Understand and setup projects.",
+  "slug": "/category/projects-1",
+  "permalink": "/docs/./category/projects-1",
+  "navigation": {
+    "previous": {
+      "title": "Understanding cost",
+      "permalink": "/docs/./organizations/manage-cost/understanding-cost"
+    },
+    "next": {
+      "title": "Understanding projects",
+      "permalink": "/docs/./projects/"
+    }
+  }
+}

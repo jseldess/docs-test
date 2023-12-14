@@ -1,0 +1,12 @@
+{
+  "title": "Getting Started",
+  "description": "Get started with Pinecone.",
+  "slug": "/category/getting-started-3",
+  "permalink": "/docs/./category/getting-started-3",
+  "navigation": {
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/./getting-started/overview"
+    }
+  }
+}

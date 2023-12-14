@@ -1,0 +1,29 @@
+{
+  "id": "getting-started/choosing-index-type-and-size",
+  "title": "Choosing index type and size",
+  "description": "Considerations for customizing Pinecone indexes.",
+  "source": "@site/versioned_docs/version-legacy/getting-started/choosing-index-type-and-size.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/choosing-index-type-and-size",
+  "permalink": "/docs/legacy/getting-started/choosing-index-type-and-size",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-legacy/getting-started/choosing-index-type-and-size.md",
+  "tags": [],
+  "version": "legacy",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Choosing index type and size",
+    "description": "Considerations for customizing Pinecone indexes.",
+    "sidebar_position": 4
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/docs/legacy/getting-started/authentication"
+  },
+  "next": {
+    "title": "Examples",
+    "permalink": "/docs/legacy/getting-started/examples"
+  }
+}

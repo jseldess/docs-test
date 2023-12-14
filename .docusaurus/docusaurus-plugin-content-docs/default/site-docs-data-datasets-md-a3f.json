@@ -1,0 +1,27 @@
+{
+  "id": "data/datasets",
+  "title": "Manage datasets",
+  "description": "Overview",
+  "source": "@site/docs/data/datasets.md",
+  "sourceDirName": "data",
+  "slug": "/data/datasets",
+  "permalink": "/docs/./data/datasets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data/datasets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Manage datasets",
+    "category": "6495c32609a24b00434e5b53"
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Using public Pinecone datasets",
+    "permalink": "/docs/./data/datasets/using-public-datasets"
+  },
+  "next": {
+    "title": "Encoding sparse vectors",
+    "permalink": "/docs/./data/hybrid-search-and-sparse-vectors/encode-sparse-vectors"
+  }
+}

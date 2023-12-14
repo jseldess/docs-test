@@ -1,0 +1,28 @@
+{
+  "id": "indexes/indexes",
+  "title": "Understanding indexes",
+  "description": "This document describes concepts related to Pinecone indexes. To learn how to create or modify an index, see Manage indexes.",
+  "source": "@site/docs/indexes/indexes.md",
+  "sourceDirName": "indexes",
+  "slug": "/indexes/",
+  "permalink": "/docs/./indexes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/indexes/indexes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Understanding indexes",
+    "sidebar_position": 1
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Indexes",
+    "permalink": "/docs/./category/indexes-3"
+  },
+  "next": {
+    "title": "Manage indexes",
+    "permalink": "/docs/./indexes/manage-indexes"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "projects/manage-projects/create-project",
+  "title": "Create a project",
+  "description": "Follow these steps to create a new project:",
+  "source": "@site/versioned_docs/version-legacy/projects/manage-projects/create-project.md",
+  "sourceDirName": "projects/manage-projects",
+  "slug": "/projects/manage-projects/create-project",
+  "permalink": "/docs/legacy/projects/manage-projects/create-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-legacy/projects/manage-projects/create-project.md",
+  "tags": [],
+  "version": "legacy",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Create a project",
+    "sidebar_position": 1
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Manage projects",
+    "permalink": "/docs/legacy/projects/manage-projects/"
+  },
+  "next": {
+    "title": "Add users to projects and organizations",
+    "permalink": "/docs/legacy/projects/manage-projects/add-users-to-projects-and-organizations"
+  }
+}
