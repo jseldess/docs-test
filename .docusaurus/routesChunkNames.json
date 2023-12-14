@@ -1,15 +1,15 @@
 {
-  "/docs-65f": {
+  "/docs-687": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "513d0205"
     }
   },
-  "/docs/.-250": {
+  "/docs/.-e83": {
     "__comp": "a7bd4aaa",
     "version": "935f2afb"
   },
-  "/docs/.-9fa": {
+  "/docs/.-f3c": {
     "__comp": "a94703ab"
   },
   "/docs/./category/data-711": {
@@ -92,61 +92,9 @@
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "cf74caa6"
   },
-  "/docs/./data/datasets-7c7": {
-    "__comp": "17896441",
-    "content": "a3f49470"
-  },
-  "/docs/./data/datasets/creating-datasets-0d7": {
-    "__comp": "17896441",
-    "content": "f5231936"
-  },
-  "/docs/./data/datasets/pinecone-public-datasets-497": {
-    "__comp": "17896441",
-    "content": "3685b227"
-  },
-  "/docs/./data/datasets/using-public-datasets-d28": {
-    "__comp": "17896441",
-    "content": "865cf2ec"
-  },
-  "/docs/./data/hybrid-search-and-sparse-vectors-aea": {
-    "__comp": "17896441",
-    "content": "7ba8a1ee"
-  },
-  "/docs/./data/hybrid-search-and-sparse-vectors/encode-sparse-vectors-579": {
-    "__comp": "17896441",
-    "content": "41c43a92"
-  },
-  "/docs/./data/hybrid-search-and-sparse-vectors/hybrid-search-0eb": {
-    "__comp": "17896441",
-    "content": "4682384a"
-  },
-  "/docs/./data/hybrid-search-and-sparse-vectors/query-sparse-dense-vectors-553": {
-    "__comp": "17896441",
-    "content": "1a9341cb"
-  },
-  "/docs/./data/hybrid-search-and-sparse-vectors/sparse-dense-vectors-8fd": {
-    "__comp": "17896441",
-    "content": "77cd651d"
-  },
-  "/docs/./data/hybrid-search-and-sparse-vectors/upsert-sparse-dense-vectors-d4f": {
-    "__comp": "17896441",
-    "content": "2b6924db"
-  },
-  "/docs/./data/insert-data-60c": {
-    "__comp": "17896441",
-    "content": "9dc91bb8"
-  },
   "/docs/./data/manage-data-ce8": {
     "__comp": "17896441",
     "content": "1bd3f340"
-  },
-  "/docs/./data/metadata-filtering-33d": {
-    "__comp": "17896441",
-    "content": "3e349044"
-  },
-  "/docs/./data/query-data-d44": {
-    "__comp": "17896441",
-    "content": "dd2b38da"
   },
   "/docs/./getting-started/authentication-f63": {
     "__comp": "17896441",
@@ -168,107 +116,23 @@
     "__comp": "17896441",
     "content": "35155c61"
   },
-  "/docs/./indexes/-2f7": {
+  "/docs/./indexes-81a": {
     "__comp": "17896441",
     "content": "1771bf39"
   },
-  "/docs/./indexes/back-up-indexes-045": {
-    "__comp": "17896441",
-    "content": "9f59dbbc"
-  },
-  "/docs/./indexes/collections-6c6": {
-    "__comp": "17896441",
-    "content": "2a4e2fc3"
-  },
-  "/docs/./indexes/manage-indexes-8c1": {
-    "__comp": "17896441",
-    "content": "526a6350"
-  },
-  "/docs/./indexes/namespaces-32e": {
-    "__comp": "17896441",
-    "content": "459b341b"
-  },
-  "/docs/./indexes/scaling-indexes-794": {
-    "__comp": "17896441",
-    "content": "2d53aba7"
-  },
-  "/docs/./organizations/-4f0": {
+  "/docs/./organizations-e2a": {
     "__comp": "17896441",
     "content": "ac845741"
   },
-  "/docs/./organizations/manage-billing/-2fd": {
+  "/docs/./projects-aaa": {
     "__comp": "17896441",
-    "content": "44a1fba4"
+    "content": "06a62c1d"
   },
-  "/docs/./organizations/manage-billing/changing-your-billing-plan-ecb": {
-    "__comp": "17896441",
-    "content": "25274917"
-  },
-  "/docs/./organizations/manage-billing/setting-up-aws-marketplace-billing-f31": {
-    "__comp": "17896441",
-    "content": "37638608"
-  },
-  "/docs/./organizations/manage-billing/setting-up-azure-marketplace-billing-75c": {
-    "__comp": "17896441",
-    "content": "b8db91ab"
-  },
-  "/docs/./organizations/manage-billing/setting-up-gcp-marketplace-billing-b9f": {
-    "__comp": "17896441",
-    "content": "c1c7db5b"
-  },
-  "/docs/./organizations/manage-billing/subscription_status-7cf": {
-    "__comp": "17896441",
-    "content": "6f5557ed"
-  },
-  "/docs/./organizations/manage-cost/-318": {
-    "__comp": "17896441",
-    "content": "2033caf5"
-  },
-  "/docs/./organizations/manage-cost/managing-cost-f87": {
-    "__comp": "17896441",
-    "content": "62f7a9a2"
-  },
-  "/docs/./organizations/manage-cost/monitoring-usage-234": {
-    "__comp": "17896441",
-    "content": "45eda6f9"
-  },
-  "/docs/./organizations/manage-cost/understanding-cost-145": {
-    "__comp": "17896441",
-    "content": "5d93a061"
-  },
-  "/docs/./projects/-559": {
-    "__comp": "17896441",
-    "content": "a3e5b505"
-  },
-  "/docs/./projects/manage-projects/-7ef": {
-    "__comp": "17896441",
-    "content": "903867d5"
-  },
-  "/docs/./projects/manage-projects/add-users-to-projects-and-organizations-b8b": {
-    "__comp": "17896441",
-    "content": "4e8e94b9"
-  },
-  "/docs/./projects/manage-projects/change-project-pod-limit-ede": {
-    "__comp": "17896441",
-    "content": "547a7c46"
-  },
-  "/docs/./projects/manage-projects/create-project-777": {
-    "__comp": "17896441",
-    "content": "b3af5f2b"
-  },
-  "/docs/./projects/manage-projects/rename-project-6da": {
-    "__comp": "17896441",
-    "content": "f3f94760"
-  },
-  "/docs/./projects/starter-environment-fa4": {
-    "__comp": "17896441",
-    "content": "41aebbbb"
-  },
-  "/docs/legacy-1f5": {
+  "/docs/legacy-e8a": {
     "__comp": "a7bd4aaa",
     "version": "d1c7c525"
   },
-  "/docs/legacy-ed7": {
+  "/docs/legacy-855": {
     "__comp": "a94703ab"
   },
   "/docs/legacy/category/data-6fc": {
@@ -351,61 +215,9 @@
     "__comp": "14eb3368",
     "categoryGeneratedIndex": "df658b7c"
   },
-  "/docs/legacy/data/datasets-239": {
-    "__comp": "17896441",
-    "content": "c17ce3d9"
-  },
-  "/docs/legacy/data/datasets/creating-datasets-044": {
-    "__comp": "17896441",
-    "content": "65dab3e8"
-  },
-  "/docs/legacy/data/datasets/pinecone-public-datasets-30d": {
-    "__comp": "17896441",
-    "content": "07ba3a50"
-  },
-  "/docs/legacy/data/datasets/using-public-datasets-b15": {
-    "__comp": "17896441",
-    "content": "475c9cc8"
-  },
-  "/docs/legacy/data/hybrid-search-and-sparse-vectors-555": {
-    "__comp": "17896441",
-    "content": "e53b11bf"
-  },
-  "/docs/legacy/data/hybrid-search-and-sparse-vectors/encode-sparse-vectors-1ae": {
-    "__comp": "17896441",
-    "content": "fad3aaa7"
-  },
-  "/docs/legacy/data/hybrid-search-and-sparse-vectors/hybrid-search-524": {
-    "__comp": "17896441",
-    "content": "8e855af0"
-  },
-  "/docs/legacy/data/hybrid-search-and-sparse-vectors/query-sparse-dense-vectors-42e": {
-    "__comp": "17896441",
-    "content": "318c49aa"
-  },
-  "/docs/legacy/data/hybrid-search-and-sparse-vectors/sparse-dense-vectors-16c": {
-    "__comp": "17896441",
-    "content": "6598bfc2"
-  },
-  "/docs/legacy/data/hybrid-search-and-sparse-vectors/upsert-sparse-dense-vectors-5ac": {
-    "__comp": "17896441",
-    "content": "e318b450"
-  },
-  "/docs/legacy/data/insert-data-a70": {
-    "__comp": "17896441",
-    "content": "6b607eca"
-  },
   "/docs/legacy/data/manage-data-163": {
     "__comp": "17896441",
     "content": "2ba4c7bb"
-  },
-  "/docs/legacy/data/metadata-filtering-a94": {
-    "__comp": "17896441",
-    "content": "b71cfcd6"
-  },
-  "/docs/legacy/data/query-data-eee": {
-    "__comp": "17896441",
-    "content": "5dc13c4b"
   },
   "/docs/legacy/getting-started/authentication-f52": {
     "__comp": "17896441",
@@ -423,105 +235,21 @@
     "__comp": "17896441",
     "content": "d4d3a60e"
   },
-  "/docs/legacy/getting-started/quickstart-e09": {
+  "/docs/legacy/getting-started/quickstart-ba7": {
     "__comp": "17896441",
-    "content": "43fa7953"
+    "content": "405055f4"
   },
-  "/docs/legacy/indexes/-962": {
+  "/docs/legacy/indexes-672": {
     "__comp": "17896441",
     "content": "c47e2fb1"
   },
-  "/docs/legacy/indexes/back-up-indexes-558": {
-    "__comp": "17896441",
-    "content": "5830423c"
-  },
-  "/docs/legacy/indexes/collections-d64": {
-    "__comp": "17896441",
-    "content": "9ed7cf32"
-  },
-  "/docs/legacy/indexes/manage-indexes-2da": {
-    "__comp": "17896441",
-    "content": "5e1ba269"
-  },
-  "/docs/legacy/indexes/namespaces-c8b": {
-    "__comp": "17896441",
-    "content": "e85322e3"
-  },
-  "/docs/legacy/indexes/scaling-indexes-4b9": {
-    "__comp": "17896441",
-    "content": "3a50758a"
-  },
-  "/docs/legacy/organizations/-598": {
+  "/docs/legacy/organizations-56b": {
     "__comp": "17896441",
     "content": "e05fca8b"
   },
-  "/docs/legacy/organizations/manage-billing/-c7d": {
+  "/docs/legacy/projects-a6b": {
     "__comp": "17896441",
-    "content": "f20476d7"
-  },
-  "/docs/legacy/organizations/manage-billing/changing-your-billing-plan-776": {
-    "__comp": "17896441",
-    "content": "efc2d604"
-  },
-  "/docs/legacy/organizations/manage-billing/setting-up-aws-marketplace-billing-da8": {
-    "__comp": "17896441",
-    "content": "44579f71"
-  },
-  "/docs/legacy/organizations/manage-billing/setting-up-azure-marketplace-billing-9b8": {
-    "__comp": "17896441",
-    "content": "e3c759b5"
-  },
-  "/docs/legacy/organizations/manage-billing/setting-up-gcp-marketplace-billing-9dd": {
-    "__comp": "17896441",
-    "content": "fc06e656"
-  },
-  "/docs/legacy/organizations/manage-billing/subscription_status-05b": {
-    "__comp": "17896441",
-    "content": "db9b175e"
-  },
-  "/docs/legacy/organizations/manage-cost/-480": {
-    "__comp": "17896441",
-    "content": "fc2a6436"
-  },
-  "/docs/legacy/organizations/manage-cost/managing-cost-740": {
-    "__comp": "17896441",
-    "content": "cfab8a84"
-  },
-  "/docs/legacy/organizations/manage-cost/monitoring-usage-37a": {
-    "__comp": "17896441",
-    "content": "4d63a8fe"
-  },
-  "/docs/legacy/organizations/manage-cost/understanding-cost-47a": {
-    "__comp": "17896441",
-    "content": "19b6d6bc"
-  },
-  "/docs/legacy/projects/-6c0": {
-    "__comp": "17896441",
-    "content": "acf7d6d4"
-  },
-  "/docs/legacy/projects/manage-projects/-352": {
-    "__comp": "17896441",
-    "content": "d0b5b13d"
-  },
-  "/docs/legacy/projects/manage-projects/add-users-to-projects-and-organizations-a5e": {
-    "__comp": "17896441",
-    "content": "ae5a168d"
-  },
-  "/docs/legacy/projects/manage-projects/change-project-pod-limit-0f9": {
-    "__comp": "17896441",
-    "content": "790c9eec"
-  },
-  "/docs/legacy/projects/manage-projects/create-project-12e": {
-    "__comp": "17896441",
-    "content": "ee945664"
-  },
-  "/docs/legacy/projects/manage-projects/rename-project-a23": {
-    "__comp": "17896441",
-    "content": "a55b4933"
-  },
-  "/docs/legacy/projects/starter-environment-0c6": {
-    "__comp": "17896441",
-    "content": "825ccd3c"
+    "content": "16fe716a"
   },
   "/-523": {
     "__comp": "c4f5d8e4",

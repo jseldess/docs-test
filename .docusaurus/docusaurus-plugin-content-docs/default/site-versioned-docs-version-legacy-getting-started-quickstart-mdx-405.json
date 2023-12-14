@@ -1,0 +1,28 @@
+{
+  "id": "getting-started/quickstart",
+  "title": "Quickstart",
+  "description": "Set up a Pinecone vector database in minutes.",
+  "source": "@site/versioned_docs/version-legacy/getting-started/quickstart.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/quickstart",
+  "permalink": "/docs/legacy/getting-started/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "legacy",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Quickstart",
+    "description": "Set up a Pinecone vector database in minutes.",
+    "sidebar_position": 2
+  },
+  "sidebar": "examplesSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/legacy/getting-started/overview"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/legacy/getting-started/authentication"
+  }
+}

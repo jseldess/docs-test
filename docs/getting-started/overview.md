@@ -1,4 +1,5 @@
 ---
+id: overview
 title: Overview
 description: An introduction to the Pinecone vector database.
 sidebar_position: 1

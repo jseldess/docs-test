@@ -3,6 +3,6 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Understand and setup organizations."
+    "description": "Interact with vector data in Pinecone."
   }
 }

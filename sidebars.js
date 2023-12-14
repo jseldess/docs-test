@@ -21,17 +21,18 @@ const sidebars = {
 
 
   // But you can create a sidebar manually
-  /*
-  tutorialSidebar: [
-    'intro',
-    'hello',
+  /*guidesSidebar: [
     {
       type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
+      label: 'Getting Started',
+      items: [
+        {
+          type: 'doc',
+          id: 'getting-started/overview',
+        },
+      ],
     },
-  ],
-   */
+  ],*/
 };
 
 export default sidebars;

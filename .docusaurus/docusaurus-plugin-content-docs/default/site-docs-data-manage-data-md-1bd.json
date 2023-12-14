@@ -1,27 +1,23 @@
 {
   "id": "data/manage-data",
   "title": "Manage data",
-  "description": "In addition to inserting and querying data, there are other ways you can interact with vector data in a Pinecone index. This section walks through the various vector operations available.",
+  "description": "",
   "source": "@site/docs/data/manage-data.md",
   "sourceDirName": "data",
   "slug": "/data/manage-data",
   "permalink": "/docs/./data/manage-data",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data/manage-data.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 1,
   "frontMatter": {
     "title": "Manage data",
-    "category": "6495c32609a24b00434e5b53"
+    "sidebar_position": 1
   },
   "sidebar": "examplesSidebar",
   "previous": {
-    "title": "Insert data",
-    "permalink": "/docs/./data/insert-data"
-  },
-  "next": {
-    "title": "Filtering with metadata",
-    "permalink": "/docs/./data/metadata-filtering"
+    "title": "Data",
+    "permalink": "/docs/./category/data-3"
   }
 }

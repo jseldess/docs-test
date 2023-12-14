@@ -1,14 +1,13 @@
 {
   "id": "organizations/organizations",
   "title": "Understanding organizations",
-  "description": "A Pinecone organization is a set of projects that use the same billing. Organizations allow one or more users to control billing and project permissions for all of the projects belonging to the organization. Each project belongs to an organization.",
+  "description": "",
   "source": "@site/versioned_docs/version-legacy/organizations/organizations.md",
   "sourceDirName": "organizations",
   "slug": "/organizations/",
   "permalink": "/docs/legacy/organizations/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/versioned_docs/version-legacy/organizations/organizations.md",
   "tags": [],
   "version": "legacy",
   "sidebarPosition": 1,
@@ -22,7 +21,7 @@
     "permalink": "/docs/legacy/category/organizations-3"
   },
   "next": {
-    "title": "Manage billing",
-    "permalink": "/docs/legacy/organizations/manage-billing/"
+    "title": "Projects",
+    "permalink": "/docs/legacy/category/projects-3"
   }
 }

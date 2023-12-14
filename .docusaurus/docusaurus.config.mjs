@@ -9,8 +9,10 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "jseldess",
+  "projectName": "jseldess.github.io",
+  "deploymentBranch": "docs-test",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,13 +29,17 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "lastVersion": "current",
           "versions": {
             "current": {
               "label": "latest",
               "path": ".",
-              "badge": false
+              "badge": true
+            },
+            "legacy": {
+              "label": "legacy",
+              "banner": "none",
+              "badge": true
             }
           }
         },
@@ -95,15 +101,6 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
           "title": "Community",
           "items": [
             {
@@ -117,19 +114,6 @@ export default {
             {
               "label": "Twitter",
               "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }

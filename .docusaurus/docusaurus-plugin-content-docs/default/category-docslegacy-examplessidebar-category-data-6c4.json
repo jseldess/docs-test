@@ -1,16 +1,16 @@
 {
   "title": "Data",
-  "description": "Understand and setup organizations.",
+  "description": "Interact with vector data in Pinecone.",
   "slug": "/category/data-3",
   "permalink": "/docs/legacy/category/data-3",
   "navigation": {
     "previous": {
-      "title": "Using namespaces",
-      "permalink": "/docs/legacy/indexes/namespaces"
+      "title": "Understanding indexes",
+      "permalink": "/docs/legacy/indexes/"
     },
     "next": {
-      "title": "Creating and loading private datasets",
-      "permalink": "/docs/legacy/data/datasets/creating-datasets"
+      "title": "Manage data",
+      "permalink": "/docs/legacy/data/manage-data"
     }
   }
 }

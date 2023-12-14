@@ -5,8 +5,8 @@
   "permalink": "/docs/legacy/category/indexes",
   "navigation": {
     "previous": {
-      "title": "gcp-starter environment",
-      "permalink": "/docs/legacy/projects/starter-environment"
+      "title": "Understanding projects",
+      "permalink": "/docs/legacy/projects/"
     },
     "next": {
       "title": "Understanding indexes",

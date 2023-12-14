@@ -13,14 +13,14 @@ This guide explains how to set up a Pinecone vector database in minutes.
 
 - If you haven't already, [sign up for a free Pinecone account](https://app.pinecone.io/). 
 
-  On the free [Starter plan](/docs/starter-environment), you get one project and one index with enough resources for testing Pinecone and for running small applications. Although the [Starter plan does not support all Pinecone features](/docs/starter-environment#limitations), it's easy to [upgrade](/docs/changing-your-billing-plan) when you're ready.  
+  On the free Starter plan, you get one project and one index with enough resources for testing Pinecone and for running small applications. Although the Starter plan does not support all Pinecone features, it's easy to upgrade when you're ready.  
 
 - If you'd prefer to get started in your browser, use the ["Hello, Pinecone!" colab notebook](https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/quick-tour/hello-pinecone.ipynb).
 
 
 ## 1. Install a Pinecone client
 
-Pinecone exposes a simple REST API for interacting with your vector database. You can use the [API](/reference) directly, or you can use one of the official Pinecone clients:
+Pinecone exposes a simple REST API for interacting with your vector database. You can use the API directly, or you can use one of the official Pinecone clients:
 
 <Tabs>
 <TabItem value="python" label="Python">
@@ -35,7 +35,7 @@ npm install @pinecone-database/pinecone
 </TabItem>
 </Tabs>
 
-Currently, Pinecone supports a [Python client](/docs/python-client) and a [Node.js client](https://sdk.pinecone.io/typescript/). For community-supported clients and other client resources, see [Libraries](/page/libraries).
+Currently, Pinecone supports a Python client and a [Node.js client](https://sdk.pinecone.io/typescript/). For community-supported clients and other client resources, see Libraries.
 
 ## 2. Get your API key
 
@@ -77,9 +77,9 @@ When using the API directly, each HTTP request must contain an `Api-Key` header 
 
 ## 4. Create an index
 
-In Pinecone, you store vector embeddings in [indexes](/docs/indexes). In each index, the vectors share the same dimensionality and distance metric for measuring similarity. 
+In Pinecone, you store vector embeddings in indexes. In each index, the vectors share the same dimensionality and distance metric for measuring similarity. 
 
-Create an index named "quickstart" that performs nearest-neighbor search using the [Euclidean distance metric](/docs/manage-indexes/#distance-metrics) for 8-dimensional vectors:
+Create an index named "quickstart" that performs nearest-neighbor search using the Euclidean distance metric for 8-dimensional vectors:
 
 <Tabs>
 <TabItem value="python" label="Python">
@@ -122,9 +122,9 @@ curl "https://controller.$PINECONE_ENVIRONMENT.pinecone.io/databases/quickstart"
 
 ## 5. Insert vectors
 
-Now that you've created your index, [insert](/docs/insert-data) sample vectors into 2 distinct namespaces. 
+Now that you've created your index, insert sample vectors into 2 distinct namespaces. 
 
-[Namespaces](namespaces) let you logically separate vectors within a single index. Although optional, they are a best practice for speeding up queries, which can be filtered by namespace, and for complying with [multi-tenancy](multitenancy) requirements.
+Namespaces let you logically separate vectors within a single index. Although optional, they are a best practice for speeding up queries, which can be filtered by namespace, and for complying with multi-tenancy requirements.
 
 1. Create a client instance that targets the "quickstart" index:
 
@@ -146,7 +146,7 @@ Now that you've created your index, [insert](/docs/insert-data) sample vectors i
     </TabItem>
     </Tabs>
 
-1. Use the [`upsert`](/reference/upsert) operation to write 8 8-dimensional vectors into 2 distinct namespaces:
+1. Use the `upsert` operation to write 8 8-dimensional vectors into 2 distinct namespaces:
 
     <Tabs>
     <TabItem value="python" label="Python">
@@ -280,13 +280,13 @@ Now that you've created your index, [insert](/docs/insert-data) sample vectors i
 
 :::tip
 
-When upserting larger amounts of data, [upsert data in batches](insert-data/#batching-upserts) of 100 vectors or fewer over multiple upsert requests.
+When upserting larger amounts of data, upsert data in batches of 100 vectors or fewer over multiple upsert requests.
 
 :::
 
 ## 6. Check the index
 
-Pinecone is eventually consistent, so there can be a delay before your vectors are visible to queries. Use the [`describe_index_stats`](/reference/describe_index_stats_post) operation to check if the current vector count matches the number of vectors you inserted:
+Pinecone is eventually consistent, so there can be a delay before your vectors are visible to queries. Use the `describe_index_stats` operation to check if the current vector count matches the number of vectors you inserted:
 
 <Tabs>
 <TabItem value="python" label="Python">
@@ -548,5 +548,5 @@ After you delete an index, you cannot use it again.
 
 ## Next steps
 
-Now that you have a free Pinecone account and experience with basic Pinecone operations, check out our [sample applications](/page/examples) using common AI patterns, tools, and algorithms, or start [inserting your own vector embeddings](/docs/insert-data).
+Now that you have a free Pinecone account and experience with basic Pinecone operations, check out our sample applications using common AI patterns, tools, and algorithms, or start inserting your own vector embeddings.
 
